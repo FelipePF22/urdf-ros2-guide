@@ -1,5 +1,5 @@
 # Manual de Instrução para Construção de Modelos URDF
-> Guia Prático de Modelagem e Estruturação no ROS 2 e NVIDIA Isaac Sim
+> Guia Prático de Modelagem e Estruturação no ROS 2
 
 Este repositório contém as diretrizes técnicas, boas práticas e exemplos práticos para o desenvolvimento, parametrização e validação de arquivos **URDF (Unified Robot Description Format)**. O conteúdo é baseado no manual de instruções desenvolvido na **Escola de Engenharia de São Carlos da Universidade de São Paulo (EESC-USP)**.
 
