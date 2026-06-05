@@ -40,7 +40,7 @@ Este trabalho e os exemplos contidos neste repositório foram desenvolvidos com 
 * **Contato:** ffurlaneto@usp.br
 * **Instituição:** Escola de Engenharia de São Carlos - Universidade de São Paulo (EESC-USP)
 
-O código e as especificações deste repositório estão licenciados sob a **Licença Apache 2.0**. Sinta-se livre para utilizar e distribuir, desde que mantidos os devidos créditos e referências ao autor original e à instituição.
+O código e as especificações deste repositório estão licenciados sob a **Licença Apache 2.0**. Sinta-se livre para utilizar e distribuir, desde que seja mantido os devidos créditos e referências ao autor original e à instituição.
 
 ```text
 Copyright 2026 Felipe Pereira Furlaneto (EESC-USP)
