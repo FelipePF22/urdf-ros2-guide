@@ -3,7 +3,7 @@
 
 Este repositório contém as diretrizes técnicas, boas práticas e exemplos práticos para o desenvolvimento, parametrização e validação de arquivos **URDF (Unified Robot Description Format)**. O conteúdo é baseado no manual de instruções desenvolvido na **Escola de Engenharia de São Carlos da Universidade de São Paulo (EESC-USP)**.
 
-**O Mesmo também apresentar sua versão em inglês (It also presents its English version.)**
+**O Mesmo contem também sua versão em inglês (It also includes an English version.)**
 
 ---
 
