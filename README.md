@@ -29,6 +29,12 @@ O repositório e o manual estão estruturados para cobrir todo o pipeline de des
    * Injeção limpa de robôs em tempo de execução via `spawn_entity.py`.
 5. **Compatibilidade com NVIDIA Isaac Sim**
    * Como converter arquivos e macros parametrizadas do Xacro para URDFs estáticos e resolvidos.
+---
+
+
+## 📌 Conteúdo adicional 
+
+O repositório contem um regra de ouro na montagem de URDFs, com o titulo: `"Regra_de_montagem_URDF"`
 
 ---
 
